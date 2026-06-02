@@ -16,8 +16,8 @@ class User(BaseModel):
     
     address:Address
     tags:List[str]=[]
-    
-    
+
+
 user = User(id=1,
             name="sagun",
             email="sagunbastola@gmail.com",
