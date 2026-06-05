@@ -1,7 +1,8 @@
-from itertools import product
-
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException, Query , Path
 from service.product import get_all_products
+from schema.product import Product
+
+
 app=FastAPI()
 
 @app.get("/")
@@ -19,6 +20,9 @@ def root():
 # @app.get("/products")
 # def get_product(id:int):
 #     return get_all_products()
+
+
+
 
 
 @app.get("/products")
@@ -39,3 +43,20 @@ def list_products(name: str =
     total=len(products)
     products=products[0:limit]
     return {"total":total,"products":products}
+
+
+
+
+
+@app.get("/products/{product_id}")
+def product_based_on_id(product_id : str = Path(...,max_length=36,min_length=36,examples=list("0005a4ea-ce3f-4dd7-bee0-f4ccc70fea6a"),description="Product id of 36 characters")):
+    products=get_all_products()
+    product=[p for p in products if p.get("id","") == product_id]
+    if not product:
+        raise HTTPException(status_code=404,detail="error found!!!")
+    return {"product_id": product_id , "product" : product}
+
+
+@app.post("/products",status_code=201)
+def create_products(product: Product):
+    return product
