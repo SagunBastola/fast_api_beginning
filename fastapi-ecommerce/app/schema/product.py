@@ -1,7 +1,7 @@
 
 
 from typing import List,Dict, Literal,Optional
-from pydantic import BaseModel, EmailStr,Field,AnyUrl, field_validator
+from pydantic import BaseModel, EmailStr,Field,AnyUrl, field_validator, model_validator, computed_field
 from uuid import UUID
 from datetime import datetime
 
@@ -48,6 +48,29 @@ class Product(BaseModel):
             raise ValueError("error 3")
 
         return v
-        
     
+    @model_validator(mode="after")
+    @classmethod
+    def skock_is_active_validation(cls,values : "Product"):
+        if values.stock==0:
+            if not values.is_active:
+                return values
+            else:
+                ValueError("when stock is 0 must be false")
+        else:
+            if values.is_active:
+                return values
+            else:
+                ValueError("is active must be true")
+    
+    @computed_field
+    @property
+    def discounted_price(self) -> float:
+        return (100-self.discount_percent)*self.price/100
+    
+    @computed_field
+    @property
+    def volume(self) -> float:
+        return self.dimensions_cm.length*self.dimensions_cm.height*self.dimensions_cm.width
+Product.model_rebuild()        
     
