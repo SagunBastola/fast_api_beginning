@@ -12,11 +12,7 @@
     "stock": 45,
     "is_active": true,
     "rating": 4.8,
-    "tags": [
-      "charger",
-      "amoled",
-      "tablet"
-    ],
+    "tags": ["charger", "amoled", "tablet"],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
       "https://cdn.example.com/xiaomi/back.png"
@@ -47,11 +43,7 @@
     "stock": 47,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "gaming",
-      "5g",
-      "camera"
-    ],
+    "tags": ["gaming", "5g", "camera"],
     "image_urls": [
       "https://cdn.example.com/realme/front.png",
       "https://cdn.example.com/realme/back.png"
@@ -82,11 +74,7 @@
     "stock": 47,
     "is_active": true,
     "rating": 4.5,
-    "tags": [
-      "5g",
-      "tablet",
-      "phone"
-    ],
+    "tags": ["5g", "tablet", "phone"],
     "image_urls": [
       "https://cdn.example.com/samsung/front.png",
       "https://cdn.example.com/samsung/back.png"
@@ -117,11 +105,7 @@
     "stock": 78,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "phone",
-      "camera",
-      "charger"
-    ],
+    "tags": ["phone", "camera", "charger"],
     "image_urls": [
       "https://cdn.example.com/realme/front.png",
       "https://cdn.example.com/realme/back.png"
@@ -152,11 +136,7 @@
     "stock": 68,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "laptop",
-      "gaming",
-      "charger"
-    ],
+    "tags": ["laptop", "gaming", "charger"],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
       "https://cdn.example.com/xiaomi/back.png"
@@ -187,11 +167,7 @@
     "stock": 115,
     "is_active": true,
     "rating": 4.1,
-    "tags": [
-      "gaming",
-      "camera",
-      "charger"
-    ],
+    "tags": ["gaming", "camera", "charger"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -222,11 +198,7 @@
     "stock": 6,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "amoled",
-      "tablet",
-      "charger"
-    ],
+    "tags": ["amoled", "tablet", "charger"],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
       "https://cdn.example.com/xiaomi/back.png"
@@ -257,11 +229,7 @@
     "stock": 34,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "phone",
-      "tablet",
-      "amoled"
-    ],
+    "tags": ["phone", "tablet", "amoled"],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
       "https://cdn.example.com/xiaomi/back.png"
@@ -292,11 +260,7 @@
     "stock": 62,
     "is_active": true,
     "rating": 3.9,
-    "tags": [
-      "amoled",
-      "laptop",
-      "ssd"
-    ],
+    "tags": ["amoled", "laptop", "ssd"],
     "image_urls": [
       "https://cdn.example.com/asus/front.png",
       "https://cdn.example.com/asus/back.png"
@@ -327,11 +291,7 @@
     "stock": 89,
     "is_active": true,
     "rating": 4.1,
-    "tags": [
-      "camera",
-      "amoled",
-      "tablet"
-    ],
+    "tags": ["camera", "amoled", "tablet"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -362,11 +322,7 @@
     "stock": 87,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "charger",
-      "phone",
-      "camera"
-    ],
+    "tags": ["charger", "phone", "camera"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -397,11 +353,7 @@
     "stock": 97,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "camera",
-      "gaming",
-      "ssd"
-    ],
+    "tags": ["camera", "gaming", "ssd"],
     "image_urls": [
       "https://cdn.example.com/hp/front.png",
       "https://cdn.example.com/hp/back.png"
@@ -432,11 +384,7 @@
     "stock": 54,
     "is_active": true,
     "rating": 4.5,
-    "tags": [
-      "5g",
-      "amoled",
-      "laptop"
-    ],
+    "tags": ["5g", "amoled", "laptop"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -467,11 +415,7 @@
     "stock": 66,
     "is_active": true,
     "rating": 3.9,
-    "tags": [
-      "phone",
-      "tablet",
-      "ssd"
-    ],
+    "tags": ["phone", "tablet", "ssd"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -502,11 +446,7 @@
     "stock": 64,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "phone",
-      "5g",
-      "amoled"
-    ],
+    "tags": ["phone", "5g", "amoled"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -537,11 +477,7 @@
     "stock": 31,
     "is_active": true,
     "rating": 4.7,
-    "tags": [
-      "charger",
-      "camera",
-      "amoled"
-    ],
+    "tags": ["charger", "camera", "amoled"],
     "image_urls": [
       "https://cdn.example.com/oneplus/front.png",
       "https://cdn.example.com/oneplus/back.png"
@@ -572,11 +508,7 @@
     "stock": 100,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "camera",
-      "ssd",
-      "gaming"
-    ],
+    "tags": ["camera", "ssd", "gaming"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -607,11 +539,7 @@
     "stock": 69,
     "is_active": true,
     "rating": 4.0,
-    "tags": [
-      "5g",
-      "camera",
-      "laptop"
-    ],
+    "tags": ["5g", "camera", "laptop"],
     "image_urls": [
       "https://cdn.example.com/hp/front.png",
       "https://cdn.example.com/hp/back.png"
@@ -642,11 +570,7 @@
     "stock": 112,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "tablet",
-      "ssd",
-      "gaming"
-    ],
+    "tags": ["tablet", "ssd", "gaming"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -677,11 +601,7 @@
     "stock": 80,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "phone",
-      "amoled",
-      "laptop"
-    ],
+    "tags": ["phone", "amoled", "laptop"],
     "image_urls": [
       "https://cdn.example.com/samsung/front.png",
       "https://cdn.example.com/samsung/back.png"
@@ -712,11 +632,7 @@
     "stock": 107,
     "is_active": true,
     "rating": 4.8,
-    "tags": [
-      "camera",
-      "amoled",
-      "ssd"
-    ],
+    "tags": ["camera", "amoled", "ssd"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -747,11 +663,7 @@
     "stock": 54,
     "is_active": true,
     "rating": 4.5,
-    "tags": [
-      "amoled",
-      "gaming",
-      "phone"
-    ],
+    "tags": ["amoled", "gaming", "phone"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -782,11 +694,7 @@
     "stock": 32,
     "is_active": true,
     "rating": 4.0,
-    "tags": [
-      "tablet",
-      "phone",
-      "gaming"
-    ],
+    "tags": ["tablet", "phone", "gaming"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -817,11 +725,7 @@
     "stock": 49,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "5g",
-      "camera",
-      "laptop"
-    ],
+    "tags": ["5g", "camera", "laptop"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -852,11 +756,7 @@
     "stock": 52,
     "is_active": true,
     "rating": 4.5,
-    "tags": [
-      "phone",
-      "laptop",
-      "5g"
-    ],
+    "tags": ["phone", "laptop", "5g"],
     "image_urls": [
       "https://cdn.example.com/hp/front.png",
       "https://cdn.example.com/hp/back.png"
@@ -887,11 +787,7 @@
     "stock": 15,
     "is_active": true,
     "rating": 4.7,
-    "tags": [
-      "charger",
-      "laptop",
-      "amoled"
-    ],
+    "tags": ["charger", "laptop", "amoled"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -922,11 +818,7 @@
     "stock": 50,
     "is_active": true,
     "rating": 4.7,
-    "tags": [
-      "ssd",
-      "tablet",
-      "5g"
-    ],
+    "tags": ["ssd", "tablet", "5g"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -957,11 +849,7 @@
     "stock": 87,
     "is_active": true,
     "rating": 4.8,
-    "tags": [
-      "tablet",
-      "phone",
-      "gaming"
-    ],
+    "tags": ["tablet", "phone", "gaming"],
     "image_urls": [
       "https://cdn.example.com/samsung/front.png",
       "https://cdn.example.com/samsung/back.png"
@@ -992,11 +880,7 @@
     "stock": 106,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "phone",
-      "5g",
-      "amoled"
-    ],
+    "tags": ["phone", "5g", "amoled"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -1027,11 +911,7 @@
     "stock": 42,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "5g",
-      "gaming",
-      "ssd"
-    ],
+    "tags": ["5g", "gaming", "ssd"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -1062,11 +942,7 @@
     "stock": 52,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "5g",
-      "phone",
-      "amoled"
-    ],
+    "tags": ["5g", "phone", "amoled"],
     "image_urls": [
       "https://cdn.example.com/hp/front.png",
       "https://cdn.example.com/hp/back.png"
@@ -1097,11 +973,7 @@
     "stock": 89,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "gaming",
-      "amoled",
-      "tablet"
-    ],
+    "tags": ["gaming", "amoled", "tablet"],
     "image_urls": [
       "https://cdn.example.com/oneplus/front.png",
       "https://cdn.example.com/oneplus/back.png"
@@ -1132,11 +1004,7 @@
     "stock": 92,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "camera",
-      "5g",
-      "laptop"
-    ],
+    "tags": ["camera", "5g", "laptop"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -1167,11 +1035,7 @@
     "stock": 104,
     "is_active": true,
     "rating": 4.7,
-    "tags": [
-      "ssd",
-      "tablet",
-      "amoled"
-    ],
+    "tags": ["ssd", "tablet", "amoled"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -1202,11 +1066,7 @@
     "stock": 35,
     "is_active": true,
     "rating": 4.5,
-    "tags": [
-      "laptop",
-      "tablet",
-      "gaming"
-    ],
+    "tags": ["laptop", "tablet", "gaming"],
     "image_urls": [
       "https://cdn.example.com/realme/front.png",
       "https://cdn.example.com/realme/back.png"
@@ -1237,11 +1097,7 @@
     "stock": 103,
     "is_active": true,
     "rating": 3.9,
-    "tags": [
-      "5g",
-      "gaming",
-      "charger"
-    ],
+    "tags": ["5g", "gaming", "charger"],
     "image_urls": [
       "https://cdn.example.com/asus/front.png",
       "https://cdn.example.com/asus/back.png"
@@ -1272,11 +1128,7 @@
     "stock": 24,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "tablet",
-      "ssd",
-      "charger"
-    ],
+    "tags": ["tablet", "ssd", "charger"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -1307,11 +1159,7 @@
     "stock": 42,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "5g",
-      "laptop",
-      "camera"
-    ],
+    "tags": ["5g", "laptop", "camera"],
     "image_urls": [
       "https://cdn.example.com/samsung/front.png",
       "https://cdn.example.com/samsung/back.png"
@@ -1342,11 +1190,7 @@
     "stock": 32,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "camera",
-      "gaming",
-      "charger"
-    ],
+    "tags": ["camera", "gaming", "charger"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -1377,11 +1221,7 @@
     "stock": 45,
     "is_active": true,
     "rating": 3.9,
-    "tags": [
-      "phone",
-      "tablet",
-      "laptop"
-    ],
+    "tags": ["phone", "tablet", "laptop"],
     "image_urls": [
       "https://cdn.example.com/realme/front.png",
       "https://cdn.example.com/realme/back.png"
@@ -1412,11 +1252,7 @@
     "stock": 74,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "camera",
-      "charger",
-      "5g"
-    ],
+    "tags": ["camera", "charger", "5g"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -1447,11 +1283,7 @@
     "stock": 110,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "laptop",
-      "gaming",
-      "ssd"
-    ],
+    "tags": ["laptop", "gaming", "ssd"],
     "image_urls": [
       "https://cdn.example.com/asus/front.png",
       "https://cdn.example.com/asus/back.png"
@@ -1482,11 +1314,7 @@
     "stock": 97,
     "is_active": true,
     "rating": 3.9,
-    "tags": [
-      "amoled",
-      "5g",
-      "ssd"
-    ],
+    "tags": ["amoled", "5g", "ssd"],
     "image_urls": [
       "https://cdn.example.com/asus/front.png",
       "https://cdn.example.com/asus/back.png"
@@ -1517,11 +1345,7 @@
     "stock": 76,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "camera",
-      "tablet",
-      "phone"
-    ],
+    "tags": ["camera", "tablet", "phone"],
     "image_urls": [
       "https://cdn.example.com/realme/front.png",
       "https://cdn.example.com/realme/back.png"
@@ -1552,11 +1376,7 @@
     "stock": 16,
     "is_active": true,
     "rating": 4.1,
-    "tags": [
-      "amoled",
-      "5g",
-      "gaming"
-    ],
+    "tags": ["amoled", "5g", "gaming"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -1587,11 +1407,7 @@
     "stock": 50,
     "is_active": true,
     "rating": 4.7,
-    "tags": [
-      "phone",
-      "5g",
-      "tablet"
-    ],
+    "tags": ["phone", "5g", "tablet"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -1622,11 +1438,7 @@
     "stock": 89,
     "is_active": true,
     "rating": 3.8,
-    "tags": [
-      "camera",
-      "tablet",
-      "gaming"
-    ],
+    "tags": ["camera", "tablet", "gaming"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -1657,11 +1469,7 @@
     "stock": 45,
     "is_active": true,
     "rating": 4.8,
-    "tags": [
-      "ssd",
-      "laptop",
-      "phone"
-    ],
+    "tags": ["ssd", "laptop", "phone"],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
       "https://cdn.example.com/xiaomi/back.png"
@@ -1692,11 +1500,7 @@
     "stock": 91,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "phone",
-      "amoled",
-      "laptop"
-    ],
+    "tags": ["phone", "amoled", "laptop"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -1727,11 +1531,7 @@
     "stock": 75,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "amoled",
-      "camera",
-      "laptop"
-    ],
+    "tags": ["amoled", "camera", "laptop"],
     "image_urls": [
       "https://cdn.example.com/oneplus/front.png",
       "https://cdn.example.com/oneplus/back.png"
@@ -1762,11 +1562,7 @@
     "stock": 100,
     "is_active": true,
     "rating": 4.5,
-    "tags": [
-      "amoled",
-      "laptop",
-      "tablet"
-    ],
+    "tags": ["amoled", "laptop", "tablet"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -1797,11 +1593,7 @@
     "stock": 50,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "laptop",
-      "tablet",
-      "ssd"
-    ],
+    "tags": ["laptop", "tablet", "ssd"],
     "image_urls": [
       "https://cdn.example.com/samsung/front.png",
       "https://cdn.example.com/samsung/back.png"
@@ -1832,11 +1624,7 @@
     "stock": 29,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "gaming",
-      "laptop",
-      "5g"
-    ],
+    "tags": ["gaming", "laptop", "5g"],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
       "https://cdn.example.com/xiaomi/back.png"
@@ -1867,11 +1655,7 @@
     "stock": 55,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "5g",
-      "camera",
-      "charger"
-    ],
+    "tags": ["5g", "camera", "charger"],
     "image_urls": [
       "https://cdn.example.com/oneplus/front.png",
       "https://cdn.example.com/oneplus/back.png"
@@ -1902,11 +1686,7 @@
     "stock": 28,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "charger",
-      "ssd",
-      "laptop"
-    ],
+    "tags": ["charger", "ssd", "laptop"],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
       "https://cdn.example.com/xiaomi/back.png"
@@ -1937,11 +1717,7 @@
     "stock": 95,
     "is_active": true,
     "rating": 4.5,
-    "tags": [
-      "gaming",
-      "5g",
-      "laptop"
-    ],
+    "tags": ["gaming", "5g", "laptop"],
     "image_urls": [
       "https://cdn.example.com/hp/front.png",
       "https://cdn.example.com/hp/back.png"
@@ -1972,11 +1748,7 @@
     "stock": 22,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "laptop",
-      "gaming",
-      "phone"
-    ],
+    "tags": ["laptop", "gaming", "phone"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -2007,11 +1779,7 @@
     "stock": 104,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "amoled",
-      "gaming",
-      "camera"
-    ],
+    "tags": ["amoled", "gaming", "camera"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -2042,11 +1810,7 @@
     "stock": 32,
     "is_active": true,
     "rating": 4.1,
-    "tags": [
-      "laptop",
-      "amoled",
-      "camera"
-    ],
+    "tags": ["laptop", "amoled", "camera"],
     "image_urls": [
       "https://cdn.example.com/hp/front.png",
       "https://cdn.example.com/hp/back.png"
@@ -2077,11 +1841,7 @@
     "stock": 67,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "tablet",
-      "gaming",
-      "camera"
-    ],
+    "tags": ["tablet", "gaming", "camera"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -2112,11 +1872,7 @@
     "stock": 71,
     "is_active": true,
     "rating": 4.7,
-    "tags": [
-      "camera",
-      "phone",
-      "amoled"
-    ],
+    "tags": ["camera", "phone", "amoled"],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
       "https://cdn.example.com/xiaomi/back.png"
@@ -2147,11 +1903,7 @@
     "stock": 55,
     "is_active": true,
     "rating": 4.0,
-    "tags": [
-      "camera",
-      "charger",
-      "5g"
-    ],
+    "tags": ["camera", "charger", "5g"],
     "image_urls": [
       "https://cdn.example.com/asus/front.png",
       "https://cdn.example.com/asus/back.png"
@@ -2182,11 +1934,7 @@
     "stock": 53,
     "is_active": true,
     "rating": 4.8,
-    "tags": [
-      "camera",
-      "5g",
-      "laptop"
-    ],
+    "tags": ["camera", "5g", "laptop"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -2217,11 +1965,7 @@
     "stock": 85,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "phone",
-      "gaming",
-      "amoled"
-    ],
+    "tags": ["phone", "gaming", "amoled"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -2252,11 +1996,7 @@
     "stock": 10,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "amoled",
-      "phone",
-      "gaming"
-    ],
+    "tags": ["amoled", "phone", "gaming"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -2287,11 +2027,7 @@
     "stock": 114,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "laptop",
-      "gaming",
-      "5g"
-    ],
+    "tags": ["laptop", "gaming", "5g"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -2322,11 +2058,7 @@
     "stock": 63,
     "is_active": true,
     "rating": 4.1,
-    "tags": [
-      "amoled",
-      "laptop",
-      "5g"
-    ],
+    "tags": ["amoled", "laptop", "5g"],
     "image_urls": [
       "https://cdn.example.com/oneplus/front.png",
       "https://cdn.example.com/oneplus/back.png"
@@ -2357,11 +2089,7 @@
     "stock": 11,
     "is_active": true,
     "rating": 3.9,
-    "tags": [
-      "amoled",
-      "phone",
-      "gaming"
-    ],
+    "tags": ["amoled", "phone", "gaming"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -2392,11 +2120,7 @@
     "stock": 10,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "charger",
-      "ssd",
-      "amoled"
-    ],
+    "tags": ["charger", "ssd", "amoled"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -2427,11 +2151,7 @@
     "stock": 46,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "camera",
-      "gaming",
-      "amoled"
-    ],
+    "tags": ["camera", "gaming", "amoled"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -2462,11 +2182,7 @@
     "stock": 1,
     "is_active": true,
     "rating": 3.9,
-    "tags": [
-      "laptop",
-      "tablet",
-      "5g"
-    ],
+    "tags": ["laptop", "tablet", "5g"],
     "image_urls": [
       "https://cdn.example.com/oneplus/front.png",
       "https://cdn.example.com/oneplus/back.png"
@@ -2497,11 +2213,7 @@
     "stock": 34,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "camera",
-      "5g",
-      "charger"
-    ],
+    "tags": ["camera", "5g", "charger"],
     "image_urls": [
       "https://cdn.example.com/dell/front.png",
       "https://cdn.example.com/dell/back.png"
@@ -2532,11 +2244,7 @@
     "stock": 4,
     "is_active": true,
     "rating": 3.9,
-    "tags": [
-      "laptop",
-      "charger",
-      "camera"
-    ],
+    "tags": ["laptop", "charger", "camera"],
     "image_urls": [
       "https://cdn.example.com/asus/front.png",
       "https://cdn.example.com/asus/back.png"
@@ -2567,11 +2275,7 @@
     "stock": 87,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "tablet",
-      "laptop",
-      "phone"
-    ],
+    "tags": ["tablet", "laptop", "phone"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -2602,11 +2306,7 @@
     "stock": 65,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "gaming",
-      "phone",
-      "tablet"
-    ],
+    "tags": ["gaming", "phone", "tablet"],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
       "https://cdn.example.com/xiaomi/back.png"
@@ -2637,11 +2337,7 @@
     "stock": 59,
     "is_active": true,
     "rating": 3.8,
-    "tags": [
-      "laptop",
-      "5g",
-      "camera"
-    ],
+    "tags": ["laptop", "5g", "camera"],
     "image_urls": [
       "https://cdn.example.com/samsung/front.png",
       "https://cdn.example.com/samsung/back.png"
@@ -2672,11 +2368,7 @@
     "stock": 29,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "gaming",
-      "ssd",
-      "amoled"
-    ],
+    "tags": ["gaming", "ssd", "amoled"],
     "image_urls": [
       "https://cdn.example.com/oneplus/front.png",
       "https://cdn.example.com/oneplus/back.png"
@@ -2707,11 +2399,7 @@
     "stock": 100,
     "is_active": true,
     "rating": 4.0,
-    "tags": [
-      "phone",
-      "5g",
-      "gaming"
-    ],
+    "tags": ["phone", "5g", "gaming"],
     "image_urls": [
       "https://cdn.example.com/asus/front.png",
       "https://cdn.example.com/asus/back.png"
@@ -2742,11 +2430,7 @@
     "stock": 72,
     "is_active": true,
     "rating": 3.9,
-    "tags": [
-      "tablet",
-      "gaming",
-      "amoled"
-    ],
+    "tags": ["tablet", "gaming", "amoled"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -2777,11 +2461,7 @@
     "stock": 104,
     "is_active": true,
     "rating": 4.7,
-    "tags": [
-      "laptop",
-      "ssd",
-      "amoled"
-    ],
+    "tags": ["laptop", "ssd", "amoled"],
     "image_urls": [
       "https://cdn.example.com/samsung/front.png",
       "https://cdn.example.com/samsung/back.png"
@@ -2812,11 +2492,7 @@
     "stock": 114,
     "is_active": true,
     "rating": 4.7,
-    "tags": [
-      "gaming",
-      "tablet",
-      "laptop"
-    ],
+    "tags": ["gaming", "tablet", "laptop"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -2847,11 +2523,7 @@
     "stock": 65,
     "is_active": true,
     "rating": 4.1,
-    "tags": [
-      "gaming",
-      "phone",
-      "ssd"
-    ],
+    "tags": ["gaming", "phone", "ssd"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -2882,11 +2554,7 @@
     "stock": 113,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "tablet",
-      "charger",
-      "5g"
-    ],
+    "tags": ["tablet", "charger", "5g"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -2917,11 +2585,7 @@
     "stock": 106,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "amoled",
-      "phone",
-      "camera"
-    ],
+    "tags": ["amoled", "phone", "camera"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -2952,11 +2616,7 @@
     "stock": 117,
     "is_active": true,
     "rating": 4.8,
-    "tags": [
-      "amoled",
-      "ssd",
-      "5g"
-    ],
+    "tags": ["amoled", "ssd", "5g"],
     "image_urls": [
       "https://cdn.example.com/asus/front.png",
       "https://cdn.example.com/asus/back.png"
@@ -2987,11 +2647,7 @@
     "stock": 76,
     "is_active": true,
     "rating": 4.1,
-    "tags": [
-      "gaming",
-      "tablet",
-      "camera"
-    ],
+    "tags": ["gaming", "tablet", "camera"],
     "image_urls": [
       "https://cdn.example.com/hp/front.png",
       "https://cdn.example.com/hp/back.png"
@@ -3022,11 +2678,7 @@
     "stock": 81,
     "is_active": true,
     "rating": 4.3,
-    "tags": [
-      "amoled",
-      "phone",
-      "laptop"
-    ],
+    "tags": ["amoled", "phone", "laptop"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -3057,11 +2709,7 @@
     "stock": 95,
     "is_active": true,
     "rating": 4.1,
-    "tags": [
-      "charger",
-      "phone",
-      "ssd"
-    ],
+    "tags": ["charger", "phone", "ssd"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -3092,11 +2740,7 @@
     "stock": 63,
     "is_active": true,
     "rating": 3.9,
-    "tags": [
-      "ssd",
-      "tablet",
-      "phone"
-    ],
+    "tags": ["ssd", "tablet", "phone"],
     "image_urls": [
       "https://cdn.example.com/xiaomi/front.png",
       "https://cdn.example.com/xiaomi/back.png"
@@ -3127,11 +2771,7 @@
     "stock": 9,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "5g",
-      "tablet",
-      "gaming"
-    ],
+    "tags": ["5g", "tablet", "gaming"],
     "image_urls": [
       "https://cdn.example.com/apple/front.png",
       "https://cdn.example.com/apple/back.png"
@@ -3162,11 +2802,7 @@
     "stock": 90,
     "is_active": true,
     "rating": 3.8,
-    "tags": [
-      "charger",
-      "5g",
-      "ssd"
-    ],
+    "tags": ["charger", "5g", "ssd"],
     "image_urls": [
       "https://cdn.example.com/oneplus/front.png",
       "https://cdn.example.com/oneplus/back.png"
@@ -3197,11 +2833,7 @@
     "stock": 49,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "amoled",
-      "ssd",
-      "tablet"
-    ],
+    "tags": ["amoled", "ssd", "tablet"],
     "image_urls": [
       "https://cdn.example.com/realme/front.png",
       "https://cdn.example.com/realme/back.png"
@@ -3232,11 +2864,7 @@
     "stock": 99,
     "is_active": true,
     "rating": 4.0,
-    "tags": [
-      "5g",
-      "laptop",
-      "ssd"
-    ],
+    "tags": ["5g", "laptop", "ssd"],
     "image_urls": [
       "https://cdn.example.com/realme/front.png",
       "https://cdn.example.com/realme/back.png"
@@ -3267,11 +2895,7 @@
     "stock": 37,
     "is_active": true,
     "rating": 4.4,
-    "tags": [
-      "gaming",
-      "ssd",
-      "laptop"
-    ],
+    "tags": ["gaming", "ssd", "laptop"],
     "image_urls": [
       "https://cdn.example.com/samsung/front.png",
       "https://cdn.example.com/samsung/back.png"
@@ -3302,11 +2926,7 @@
     "stock": 66,
     "is_active": true,
     "rating": 4.7,
-    "tags": [
-      "camera",
-      "laptop",
-      "tablet"
-    ],
+    "tags": ["camera", "laptop", "tablet"],
     "image_urls": [
       "https://cdn.example.com/realme/front.png",
       "https://cdn.example.com/realme/back.png"
@@ -3337,11 +2957,7 @@
     "stock": 35,
     "is_active": true,
     "rating": 4.0,
-    "tags": [
-      "5g",
-      "laptop",
-      "amoled"
-    ],
+    "tags": ["5g", "laptop", "amoled"],
     "image_urls": [
       "https://cdn.example.com/asus/front.png",
       "https://cdn.example.com/asus/back.png"
@@ -3372,11 +2988,7 @@
     "stock": 99,
     "is_active": true,
     "rating": 4.6,
-    "tags": [
-      "gaming",
-      "tablet",
-      "amoled"
-    ],
+    "tags": ["gaming", "tablet", "amoled"],
     "image_urls": [
       "https://cdn.example.com/hp/front.png",
       "https://cdn.example.com/hp/back.png"
@@ -3407,11 +3019,7 @@
     "stock": 118,
     "is_active": true,
     "rating": 4.5,
-    "tags": [
-      "tablet",
-      "camera",
-      "gaming"
-    ],
+    "tags": ["tablet", "camera", "gaming"],
     "image_urls": [
       "https://cdn.example.com/lenovo/front.png",
       "https://cdn.example.com/lenovo/back.png"
@@ -3442,11 +3050,7 @@
     "stock": 102,
     "is_active": true,
     "rating": 4.1,
-    "tags": [
-      "5g",
-      "laptop",
-      "phone"
-    ],
+    "tags": ["5g", "laptop", "phone"],
     "image_urls": [
       "https://cdn.example.com/sony/front.png",
       "https://cdn.example.com/sony/back.png"
@@ -3477,11 +3081,7 @@
     "stock": 86,
     "is_active": true,
     "rating": 4.2,
-    "tags": [
-      "ssd",
-      "charger",
-      "camera"
-    ],
+    "tags": ["ssd", "charger", "camera"],
     "image_urls": [
       "https://cdn.example.com/hp/front.png",
       "https://cdn.example.com/hp/back.png"
