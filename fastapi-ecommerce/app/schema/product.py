@@ -1,10 +1,11 @@
 
 
+from pickletools import OpcodeInfo
+from token import OP
 from typing import List,Dict, Literal,Optional
 from pydantic import BaseModel, EmailStr,Field,AnyUrl, field_validator, model_validator, computed_field
 from uuid import UUID
 from datetime import datetime
-
 class Dimension(BaseModel):
     length : float = Field(..., ge=0)
     width : float =Field(...,ge=0)
@@ -73,4 +74,38 @@ class Product(BaseModel):
     def volume(self) -> float:
         return self.dimensions_cm.length*self.dimensions_cm.height*self.dimensions_cm.width
 Product.model_rebuild()        
-    
+
+class DimensionUpdate(BaseModel):
+    length : Optional[float] = Field(..., ge=0)
+    width : Optional[float] =Field(...,ge=0)
+    height : Optional[float] = Field(...,ge=0)
+
+class SellerUpdate(BaseModel):
+    seller_id : Optional[UUID]
+    name : Optional[str]
+    email : Optional[EmailStr]
+    website : Optional[AnyUrl]
+
+class ProductUpdate(BaseModel):
+    sku: Optional[str] = None
+    name: Optional[str] = None
+    description: Optional[str] = None
+    category: Optional[str] = None
+    brand: Optional[str] = None
+
+    price: Optional[float] = Field(None, ge=0)
+    currency: Optional[Literal["INR"]] = None
+    discount_percent: Optional[float] = Field(None, ge=0, le=100)
+
+    stock: Optional[int] = Field(None, ge=0)
+    is_active: Optional[bool] = None
+
+    rating: Optional[float] = Field(None, ge=0, le=5)
+
+    tags: Optional[List[str]] = None
+    image_urls: Optional[List[AnyUrl]] = None
+
+    dimensions_cm: Optional[DimensionUpdate] = None
+    seller: Optional[SellerUpdate] = None
+
+    created_at: Optional[datetime] = None
