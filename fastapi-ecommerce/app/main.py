@@ -5,10 +5,10 @@ from uuid import uuid4,UUID
 from datetime import datetime
 
 app=FastAPI()
-
-@app.get("/")
+# response_model decides which tyoe will be the output for the route
+@app.get("/",response_model=str)
 def root():
-    return {"message":"welcome to the website"}
+    return "welcome to the website"
 
 # @app.get("/products/{id}")
 # def get_product(id:int):
